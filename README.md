@@ -87,16 +87,72 @@
     src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" 
 />
 
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-plain-wordmark.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GNU Linux" 
+    title="GNU Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+
+          
+     
+          
 <br/>
 <br/>
 
----
+
 <!--
 <details>
 <summary style="font-size:1.25em;"><strong>📂 Technical Projects by Specialty </strong></summary> 
 -->
-
+---
 ### 📂 Technical Projects by Specialty
 
 
@@ -126,9 +182,35 @@
 
 </details>
 
+<details>
+<summary><strong> 🌐 Infrastructure and Cybersecurity </strong></summary>
+
+- **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
+  Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
+  `Python · Modbus TCP/RTU · OPC-UA · BACnet · CLI Interface`
+
+- **[Estudo de Coexistência 5G/Wi-Fi](https://github.com/seuusuario/projeto6)**  
+  Projeto de pesquisa focado em coexistência de redes 5G NR-U e Wi-Fi em espectros não licenciados.  
+  `5G NR · Wi-Fi · Protocolos · Fairness Optimization · MATLAB`
+
+</details>
+
 
 <details>
-<summary><strong>📡 Telecommunications and Industrial Networks</strong></summary>
+<summary><strong>🏭 Automation and Industrial Networks </strong></summary>
+
+- **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
+  Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
+  `Python · Modbus TCP/RTU · OPC-UA · BACnet · CLI Interface`
+
+- **[Estudo de Coexistência 5G/Wi-Fi](https://github.com/seuusuario/projeto6)**  
+  Projeto de pesquisa focado em coexistência de redes 5G NR-U e Wi-Fi em espectros não licenciados.  
+  `5G NR · Wi-Fi · Protocolos · Fairness Optimization · MATLAB`
+
+</details>
+
+<details>
+<summary><strong>🧠 Artificial Intelligence and Machine Learning </strong></summary>
 
 - **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
   Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
