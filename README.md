@@ -113,8 +113,6 @@
 
 </details>
 
-<br/>
-
 <details>
 <summary><strong> 👨‍💻 Software Engineering and Fullstack Development</strong></summary>
 
@@ -128,7 +126,6 @@
 
 </details>
 
-<br/>
 
 <details>
 <summary><strong>📡 Telecommunications and Industrial Networks</strong></summary>
