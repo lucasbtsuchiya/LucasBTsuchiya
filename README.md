@@ -91,6 +91,65 @@
 <br/>
 <br/>
 
+---
+<!--
+<details>
+<summary style="font-size:1.25em;"><strong>📂 Technical Projects by Specialty </strong></summary> 
+-->
+
+### 📂 Technical Projects by Specialty
+
+
+<details>
+<summary><strong> 📟 Embedded and IoT</strong></summary>
+
+- **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
+  Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
+  `Python · Modbus TCP/RTU · OPC-UA · BACnet · CLI Interface`
+
+- **[Estudo de Coexistência 5G/Wi-Fi](https://github.com/seuusuario/projeto6)**  
+  Projeto de pesquisa focado em coexistência de redes 5G NR-U e Wi-Fi em espectros não licenciados.  
+  `5G NR · Wi-Fi · Protocolos · Fairness Optimization · MATLAB`
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong> 👨‍💻 Software Engineering and Fullstack Development</strong></summary>
+
+- **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
+  Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
+  `Python · Modbus TCP/RTU · OPC-UA · BACnet · CLI Interface`
+
+- **[Estudo de Coexistência 5G/Wi-Fi](https://github.com/seuusuario/projeto6)**  
+  Projeto de pesquisa focado em coexistência de redes 5G NR-U e Wi-Fi em espectros não licenciados.  
+  `5G NR · Wi-Fi · Protocolos · Fairness Optimization · MATLAB`
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📡 Telecommunications and Industrial Networks</strong></summary>
+
+- **[Simulador de Protocolos Industriais](https://github.com/seuusuario/projeto5)**  
+  Ferramentas para simular e monitorar comunicação via Modbus, OPC-UA e BACnet.  
+  `Python · Modbus TCP/RTU · OPC-UA · BACnet · CLI Interface`
+
+- **[Estudo de Coexistência 5G/Wi-Fi](https://github.com/seuusuario/projeto6)**  
+  Projeto de pesquisa focado em coexistência de redes 5G NR-U e Wi-Fi em espectros não licenciados.  
+  `5G NR · Wi-Fi · Protocolos · Fairness Optimization · MATLAB`
+
+</details>
+
+<!--
+</details>
+-->
+
+
+---
+
 ### 📈 Statistics
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
