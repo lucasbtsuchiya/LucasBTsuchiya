@@ -98,8 +98,8 @@
 
 <img 
     align="left" 
-    alt="GNU Linux" 
-    title="GNU Linux"
+    alt="Dotnet Core" 
+    title="Dotnet Core"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
@@ -195,7 +195,7 @@
   Smart farming prototype using Arduino for sensor data acquisition and actuator control in agricultural environments.  
   `C++ · Arduino · Soil Sensors · Relay Modules · LCD Display`
 
-- **[RFID Tag Reader System](https://github.com/seuusuario/projeto10)**  
+- **[RFID Tag Reader System](https://github.com/lucasbtsuchiya/rfid-reader-system)**  
   RFID reader implemented with Arduino, interfacing to a Java server and MySQL database for inventory and access management.  
   `C++ · Arduino · Java · MySQL · Serial Communication`
 
