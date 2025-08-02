@@ -159,9 +159,9 @@
 <details>
 <summary><strong> 📟 Embedded and RTOS</strong></summary>
 
-- **[Irrigation System Control and Monitoring](https://github.com/seuusuario/projeto1)**  
-  Embedded system in C for controlling, monitoring, and activating irrigation systems. Includes sensor interfacing, actuator control, and task scheduling with RTOS.  
-  `C · RTOS · EK-TM4C1294XL · Sensor Interfaces · Relay Control`
+- **[Irrigation System Control and Monitoring](https://github.com/lucasbtsuchiya/smart-farming-iot)**  
+  Development of a device for monitoring, controlling, and activating irrigation systems. The device consists of a microcontroller, sensors, and an actuation relay.  
+  `Embedded Linux · C · Python · MySQL · PHP · Bootstrap · Raspberry Pi · Sensor Interfaces · Relay Control · Printed Circuit Board`
 
 - **[Industrial Protocol Edge Gateway](https://github.com/seuusuario/projeto2)**  
   Smart edge device with Modbus, OPC-UA, and MQTT support using RTOS on EK-TM4C1294XL. Designed for industrial connectivity and protocol bridging.  
