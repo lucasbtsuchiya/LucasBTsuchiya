@@ -345,9 +345,9 @@
   Implementation of object detection models using deep learning techniques with convolutional neural networks and transfer learning.  
   `Python · TensorFlow · Keras · CNN · Transfer Learning`
   
-  - **[Speaker Recognition](https://github.com/lucasbtsuchiya/speaker-recognition-matlab)**  
-  Program to perform speaker recognition using matlab and Wavelet transform. 
-  `Matlab · Wavelet transform · KNN`
+- **[Speaker Recognition using Wavelet Transform and Ensemble Classifier](https://github.com/lucasbtsuchiya/speaker-recognition-matlab)**  
+   Speaker recognition system developed in MATLAB, applying Wavelet Transform for feature extraction and statistical ensemble methods for classification.  
+  `MATLAB · Wavelet Transform · Feature Extraction · Ensemble Classifier · Speaker Recognition`
 
 - **[Neural Networks](https://github.com/lucasbtsuchiya/projeto2)**  
   Development and training of neural network architectures for classification and regression tasks in various datasets.  
