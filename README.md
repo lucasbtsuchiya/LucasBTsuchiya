@@ -167,11 +167,12 @@
   Smart edge device with Modbus, OPC-UA, and MQTT support using RTOS on EK-TM4C1294XL. Designed for industrial connectivity and protocol bridging.  
   `C · RTOS · EK-TM4C1294XL · Modbus TCP/RTU · OPC-UA · MQTT`
 
-- **[Autonomous Vehicle Control with RTOS](https://github.com/lucasbtsuchiya/projeto3)**  
+- **[Autonomous Vehicle Control with RTOS](https://github.com/lucasbtsuchiya/embedded-control-autonomous-simulator)**  
   Embedded RTOS application in C on EK-TM4C1294XL to control an external autonomous vehicle simulator. Handles task scheduling, sensor input processing, and actuator command generation.  
   `C · RTOS · EK-TM4C1294XL · Task Scheduling · Vehicle Simulation Control`
 
-- **[Elevator Control with RTOS](https://github.com/lucasbtsuchiya/projeto4)**  
+- **[Elevator Control with RTOS](https://github.com/lucasbtsuchiya/embedded-control-elevator-simulator
+)**  
   RTOS-based embedded controller on EK-TM4C1294XL interfacing with an elevator simulation. Manages floor selection, door operation, and safety routines using finite state machines.  
   `C · RTOS · EK-TM4C1294XL · Finite State Machine · Elevator Simulation Control`
 
@@ -340,7 +341,7 @@
 <details>
 <summary><strong>🧠 Artificial Intelligence and Machine Learning </strong></summary>
 
-- **[Object Detector with Deep Learning](https://github.com/lucasbtsuchiya/projeto1)**  
+- **[Object Detector with Deep Learning](https://github.com/lucasbtsuchiya/object-detector-dl)**  
   Implementation of object detection models using deep learning techniques with convolutional neural networks and transfer learning.  
   `Python · TensorFlow · Keras · CNN · Transfer Learning`
   
