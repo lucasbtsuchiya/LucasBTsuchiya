@@ -184,7 +184,7 @@
   Custom Linux distribution built with Yocto Project for Raspberry Pi, featuring tailored packages, services, and system configuration.  
   `Yocto Project · Linux · Raspberry Pi · Bash · Systemd`
 
-- **[Frequency Counter with RTOS](https://github.com/lucasbtsuchiya/projeto7)**  
+- **[Frequency Counter with RTOS](https://github.com/lucasbtsuchiya/realtime-frequency-meter Public)**  
   Real-time frequency measurement system using RTOS on EK-TM4C1294XL. Captures and processes timer inputs with high precision.  
   `C · RTOS · EK-TM4C1294XL · Timer Peripherals · LCD Display`
 
